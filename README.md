@@ -2,6 +2,10 @@
 
 本指南将帮助您在 Home Assistant 中安装和配置 `ZhongHongB17Lan` 自定义集成，该集成是 `zhong_hong` 组件的重命名版本。
 
+## 参考来源
+https://github.com/home-assistant/core/tree/dev/homeassistant/components/zhong_hong 
+https://github.com/crhan/ZhongHongHVAC
+
 ## 1. 安装
 
 1.  **创建自定义集成目录**：
