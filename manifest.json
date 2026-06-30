@@ -1,0 +1,11 @@
+{
+  "domain": "ZhongHongB17Lan",
+  "name": "ZhongHongB17Lan",
+  "version": "1.0.0",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/zhong_hong",
+  "iot_class": "local_push",
+  "loggers": ["custom_components.ZhongHongB17Lan.zhong_hong_b17_hvac"],
+  "quality_scale": "legacy",
+  "requirements": []
+}
